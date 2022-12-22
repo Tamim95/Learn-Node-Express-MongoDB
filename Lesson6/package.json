@@ -1,0 +1,19 @@
+{
+  "name": "lesson6",
+  "version": "1.0.0",
+  "description": "This is routing and nodemon package dear",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "routing"
+  ],
+  "author": "Anisul Islam",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
